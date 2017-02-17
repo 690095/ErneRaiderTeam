@@ -9,11 +9,11 @@ h1 {
 }
 
 @keyframes swageffect{
-    0%  {color:red;}
-   25%  {color:yellow;}
-   50%  {color:blue;}
-   75%  {color:green;}
-   100% {color:red;}
+    0%  {color:blue;}
+   25%  {color:green;}
+   50%  {color:red;}
+   75%  {color:purple;}
+   100% {color:orange;}
 }
 @-webkit-keyframes swageffect{
     0%  {color:red;}
